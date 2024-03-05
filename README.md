@@ -7,9 +7,9 @@
 
 - Login/sign Up
 
-- sign In /Sign Up Form
+- sign In /Sign Up Page
 - redirect to Browse Page
-- Browse(after authentication)
+- Browse
 - Header
 - Main Movie
   - Tailer in Background
