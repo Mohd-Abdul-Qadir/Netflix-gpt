@@ -6,11 +6,15 @@
 # Feature
 
 - Login/sign Up
-
-- sign In /Sign Up Page
+  - sign In /Sign Up Page
 - redirect to Browse Page
+
 - Browse
-- Header
+
+  - Header
+  - Routing
+  - Validation
+
 - Main Movie
   - Tailer in Background
   - Tittle & Description
